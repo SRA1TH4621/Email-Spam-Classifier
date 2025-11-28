@@ -23,3 +23,4 @@ A Machine Learning model that classifies emails as spam or ham using NLP techniq
 ```bash
 pip install -r requirements.txt
 python app.py
+
